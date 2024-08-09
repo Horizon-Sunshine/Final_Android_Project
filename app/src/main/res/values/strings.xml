@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Final_Project_IOT</string>
+
+    <!-- Splash screen welcome message -->
+    <string name="splash_message">Welcome!\nYour next travel awaits!</string>
+
+    <!-- Strings related to Journal -->
+    <string name="journal_title_hint">Type in a country\nand see what people said about it</string>
+    <string name="add_review_button">Add your own for this country</string>
+    <string name="journal_list_header">Click to share with a friend</string>
+    <string name="empty_list">Be the first to write about this country!</string>
+
+    <!-- Strings related to main activity -->
+    <string name="select_country">Select Country</string>
+    <string name="home_image1" tools:ignore="Typos">home_image1</string>
+    <string name="home_image2">home_image2</string>
+    <string name="home_image3">home_image3</string>
+    <string name="home_image4">home_image4</string>
+
+    <!-- Strings related to flights -->
+    <string name="flights_title"><u>Book Yourself a Flight</u></string>
+    <string name="flights_button">Find me a flight!</string>
+    <string name="from">From</string>
+    <string name="from_to">Airport code (3 letters) or city</string>
+    <string name="to">To</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="selected_date">%1$d-%2$d-%3$d</string>
+
+
+    <!-- Strings related to bottom navigation bar -->
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_profile">Profile</string>
+    <string name="menu_item_flights">Flights</string>
+    <string name="menu_item_checklist">Checklist</string>
+    <string name="menu_item_journal">Journal</string>
+
+    <!-- Strings related to login -->
+    <string name="login_title"><u>Login</u></string>
+    <string name="title_signup"><u>Sign Up</u></string>
+    <string name="profile_hint">Profile</string>
+    <string name="profile_title">Welcome!\n%1$s</string>
+    <string name="button_login">Sign in</string>
+    <string name="button_logout">Log out</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_phone_num">Phone number</string>
+    <string name="label_sign_up">Don\'t have an account yet? Sign up now!</string>
+    <string name="back_to_login_label">Have an account? Sign in</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

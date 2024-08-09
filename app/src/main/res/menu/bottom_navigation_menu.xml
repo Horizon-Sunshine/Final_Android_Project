@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/menu_item_profile"
+        android:icon="@drawable/baseline_person_24"/>
+    <item
+        android:id="@+id/menu_flights"
+        android:title="@string/menu_item_flights"
+        android:icon="@drawable/baseline_flight_24"/>
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/menu_item_home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/menu_checklist"
+        android:title="@string/menu_item_checklist"
+        android:icon="@drawable/baseline_luggage_24"/>
+    <item
+        android:id="@+id/menu_journal"
+        android:title="@string/menu_item_journal"
+        android:icon="@drawable/baseline_menu_book_24"/>
+</menu>
